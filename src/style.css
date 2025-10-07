@@ -30,18 +30,19 @@ body{
 }
 
 .imagem.rome{
-    background: url("./images/rome.jpg") no-repeat center / cover;
+    background: url("../images/rome.jpg") no-repeat center / cover;
 }
 
 .imagem.boat{
-    background: url("./images/boat-of-sea.png") no-repeat center / cover;
+    background: url("../images/boat-of-sea.png") no-repeat center / cover;
 }
 
 .imagem.sand{
-    background: url("./images/sand-and-sea.png") no-repeat center / cover;
+    background: url("../images/sand-and-sea.png") no-repeat center / cover;
 }
 
 .imagem.starry{
-    background: url("./images/starry-night.png") no-repeat center / cover;
+    background: url("../images/starry-night.png") no-repeat center / cover;
 
 }
+
